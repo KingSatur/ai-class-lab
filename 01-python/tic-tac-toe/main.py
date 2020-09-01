@@ -1,4 +1,4 @@
-from tic_tac_toe import TicTacToeGame
+import TicTacToeGame
 
 def play():
   game = TicTacToeGame()
@@ -11,3 +11,4 @@ def play():
 
 if __name__ == "__main__":
   play()
+
