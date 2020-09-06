@@ -1,4 +1,6 @@
-import TicTacToeGame
+from tic_tac_toe import TicTacToeGame
+
+
 
 def play():
   game = TicTacToeGame()
